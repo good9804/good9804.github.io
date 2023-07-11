@@ -163,41 +163,7 @@ content:
           * Test: JUnit5
           * 외부 API : 카카오맵 오픈 API
 
-      - layout: left
-        title: 스프링 부트 웹 애플리케이션 [개인]
-        sub_title: 담당 - 전체
-        caption: 2021.05 ~ 2021.07
-        additional_links:
-          - title: 깃허브
-            icon: fab fa-github
-            url: https://github.com/choiwoonsik/springboot_RestApi_App_Project
-          - title: 블로그 정리
-            icon: fas fa-globe
-            url: https://ws-pace.tistory.com/category/Web/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20RestAPI%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
-        quote:
-        description: |
-          #### [목적]
-          * 스프링 부트 기반 백엔드를 제작하여 MVC 구조, REST API, OAuth 2.0 관련 학습 목표
-
-          #### [역할]
-          * RestControllerAdvice + ExceptionHandler를 이용한 [통합 에러 처리 구현](https://ws-pace.tistory.com/71?category=964036)
-          * [제네릭스를 이용한 응답 모델 구조화](https://ws-pace.tistory.com/70?category=964036)를 통해 일정한 형식을 갖는 응답 구현
-          * Spring Security + JWT을 이용해 Access Token, Refresh Token을 사용하는 [토큰 기반 인증 구현](https://ws-pace.tistory.com/82?category=964036)
-          * [OAuth2.0을 이용하여 카카오 간편 로그인 구현](https://ws-pace.tistory.com/100?category=964036)
-          * JUnit을 이용하여 MockUser 테스트 등 [단위](https://ws-pace.tistory.com/91)/[통합](https://ws-pace.tistory.com/92) 테스트 진행
-
-          #### [사용 기술]
-          * 언어 : Java
-          * 프레임워크 : Spring Boot, Spring Data Jpa, Spring Security
-          * 서버 : AWS EC2
-          * DB : H2
-          * API: REST API, Swagger
-
-        # [후기]
-        # * Entity, DAO, DTO를 이용해 역할에 따라 객체를 만들어 적용해보면서 분리의 이유를 배웠습니다.
-        # * Jwt을 적용하기 위해 Spring Security의 절차 과정을 배웠으며 OAuth2.0을 적용해보며 클라이언트와 서버, OAuth 서버간의 통신 메커니즘을 배웠습니다.
-        # * JWT의 내부 구조 및 작동 원리, 장단점에 대해 배웠습니다.
-
+     
   - title: Blog
     layout: list
     content:
