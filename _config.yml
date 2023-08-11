@@ -53,9 +53,6 @@ about_content: |
   목표로 개발자가 되었습니다. 
   항상 현재 성능에 안주하지않으며 성능 개선에대해 고민하며 더 나은 결과물을 위해
   최선을 다하고 있습니다.
-
-
-
 # Projects Section
 # projects_title: Projects
 
@@ -218,6 +215,7 @@ content:
         caption: |
           2020 ~ 현재
         description: |
+          * 꾸준히 알고리즘 문제를 풀어 현재 백준 티어 플레티넘5를 달성하였습니다.
           * [백준 프로필](https://www.acmicpc.net/user/good9804)
           * [solved.ac 프로필](https://solved.ac/profile/good9804/history)
 
