@@ -91,7 +91,7 @@ content:
       - layout: left
         title: 사용자 위치기반 셔틀버스 플랫폼 서비스 
         sub_title: 담당 - Django Back-end
-        caption: 2021.12 ~ 2022.06
+        caption: 2022.12 ~ 2023.03
         link: https://github.com/good9804/DoriDori
         # link_text: Project Website
         # additional_links:
