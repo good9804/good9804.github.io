@@ -53,6 +53,8 @@ about_content: |
   목표로 개발자가 되었습니다. 
   항상 현재 성능에 안주하지않으며 성능 개선에대해 고민하며 더 나은 결과물을 위해
   최선을 다하고 있습니다.
+  현재 CS 지식 공유 사이트 프로젝트의 백엔드를 혼자 맡아 진행중에 있습니다.
+  백엔드 개발 프로세스를 1부터 100까지 완성하는 경험하면서 성장중입니다.
 # Projects Section
 # projects_title: Projects
 
@@ -64,13 +66,14 @@ content:
         title: 에스프레소 미디어
         sub_title: 백엔드 엔지니어
         caption: 2023.06 ~ 2023.08
-        link: https://github.com/good9804/APCAuth-1
+        link: https://github.com/good9804/APC
         quote: >
           교내 현장실습 인턴십 참여
         description: |
           #### [설명]
           * 농림축산식품부 인공지능 기반 신선과채류의 품질 판정 기술 개발 사업으로 디지털 트윈 통합 시스템을 개발중입니다.
           #### [역할]
+          * 통계 페이지를 추가하여 입출고량을 데이터 시각화하였습니다.
           * Firebase+Node js를 활용하여 웹 서버 와 유니티 3d  모델링 데이터베이스 실시간 연동 구현
           * 단편적이었던 입고 과정에 공정 대기 페이지를 추가하여 입고 과정을 세분화하여 관리자가 보다쉽게 공정 제어를
           할 수 있도록 하였습니다.
@@ -88,6 +91,42 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: CS 지식 공유 사이트 
+        sub_title: 담당 - Spring Boot Back-end
+        caption: 2023.08~ 진행중
+        link: https://github.com/QuizUpWebProject/back
+        # link_text: Project Website
+        # additional_links:
+        #   - title: GooglePlay
+        #     icon: fab fa-google-play
+        #     url: https://play.google.com/store/apps/details?id=com.sigmai.stylemento
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          사이드 프로젝트
+        description: | # this will include new lines to allow paragraphs
+          #### [설명]
+          * CS 지식을 서로 공유하고 같이 스터디 방 기능을 통해 학습할 수 있는 사이트를 만들었습니다. 현재 8월부터 시작해서 진행중인 프로젝트입니다.
+
+          #### [역할]
+          * [백엔드를 혼자 맡아 진행하였습니다.]
+          * 로그인, 회원가입 등 계정 관련 기능 구현
+          * Maria DB 관계형 데이터베이스 설계
+          * JPA를 활용하여 문제집,스터디 방, 문제 만들기,댓글 달기 기능 등 주요 기능 구현
+
+          #### [문제 해결 경험]
+          * 하나의 계정에서 좋아요 수와 조회수를 중복으로 올리는 것을 방지하여 토큰을 활용하여 해결하였습니다.
+          * ---추가중---
+
+          #### [사용 기술]
+          * 언어 : JAVA
+          * 프레임워크 : Spring Boot,
+          * DB : Maria DB
+          * API: REST API
+
+
       - layout: left
         title: 사용자 위치기반 셔틀버스 플랫폼 서비스 
         sub_title: 담당 - Django Back-end
