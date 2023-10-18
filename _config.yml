@@ -90,7 +90,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
+      - layout: left
         title: CS 지식 공유 사이트 
         sub_title: 담당 - Spring Boot Back-end
         caption: 2023.08~ 진행중
