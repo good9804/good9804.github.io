@@ -66,6 +66,7 @@ content:
         sub_title: 백엔드 엔지니어
         caption: 2023.06 ~ 2023.08
         link: https://github.com/good9804/APC
+        
         quote: >
           교내 현장실습 인턴십 참여
         description: |
@@ -85,6 +86,8 @@ content:
           * 프레임워크: vue,Node.js
           * Infra: Jenkins,nginx,kafka
           * DB: MongoDB
+          #### [아키텍처]
+          <img src="/images/에이피씨아키텍처.png" alt="에이피씨 아키텍처">
 
 
   - title: Projects # Title for the section
@@ -164,6 +167,10 @@ content:
           * DB : sqlite
           * API: REST API
           * 외부 API : 티맵 오픈 API, 카카오맵 오픈 API
+          
+
+          #### [웹 실행 화면]
+          <img src="/images/산학 페이지.png" alt="산학 페이지">
 
       - layout: left
         title: 서울시 결식 아동을 위한 간편 어플- 어깨동무
@@ -204,6 +211,12 @@ content:
           * API: REST API, 
           * Test: JUnit5
           * 외부 API : 카카오맵 오픈 API
+
+          #### [아키텍처]
+          <img src="/images/앱아키텍처.png" alt="앱 아키텍처">
+
+          #### [앱 실행화면]
+          <img src="/images/앱실행화면.jpg" alt="앱 실행화면">
 
      
   - title: Blog
